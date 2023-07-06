@@ -61,4 +61,6 @@ if __name__ == "__main__":
     duck_1.eat()
     chick_1.eat()
     goose_1.eat()
+    
 
+    
